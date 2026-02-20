@@ -13,7 +13,7 @@ Study behavioral patterns and user preferences
 
 Generate insights that can help improve user targeting and engagement strategies
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 
 Python
 
@@ -25,17 +25,17 @@ Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook
 
-🔍 Key Analysis Performed
+ Key Analysis Performed
 
-✔ Data Cleaning & Handling Missing Values
-✔ Age Distribution Analysis by Gender
-✔ Income & Height Distribution Analysis
-✔ Pet Preferences Analysis
-✔ Zodiac Sign Distribution Study
-✔ Relationship Status vs Demographics Comparison
-✔ Aggregations and Group-based Analysis
+1 Data Cleaning & Handling Missing Values
+2 Age Distribution Analysis by Gender
+3 Income & Height Distribution Analysis
+4 Pet Preferences Analysis
+5 Zodiac Sign Distribution Study
+6 Relationship Status vs Demographics Comparison
+7 Aggregations and Group-based Analysis
 
-📊 Key Insights
+ Key Insights
 
 Identified dominant age groups across genders.
 
@@ -45,7 +45,7 @@ Observed pet ownership trends among different relationship categories.
 
 Analyzed how zodiac signs and demographics vary across user groups.
 
-💡 Impact
+ Impact
 
 The analysis demonstrates how demographic and behavioral data can be used to:
 
